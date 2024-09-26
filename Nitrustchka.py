@@ -10,7 +10,7 @@ def generate_nitro_code():
     return code
 
 # юрл вебхука (Webhook Url)
-webhook_url = 'https://discord.com/api/webhooks/1288860285364342846/JT-CcAejyiVBkoKvi3LNp0R-JvmALgzAjXaw8Dhth0PwEwosVawS0Unp-FMoIFZypKqP'
+webhook_url = ''
 
 for _ in range(100):
     nitro_code = generate_nitro_code()
